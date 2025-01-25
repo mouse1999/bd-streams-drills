@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TransactionQuestionsTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-01-25T10:16:29" hostname="DESKTOP-2F9TN2V" time="0.077">
+  <properties/>
+  <testcase name="smallestTransaction_multipleTransactions_returnsLowest()" classname="TransactionQuestionsTest" time="0.041"/>
+  <testcase name="isMilanBased_containsMilanBasedTraders_returnsTrue()" classname="TransactionQuestionsTest" time="0.004"/>
+  <testcase name="highestValueTrade_multipleTransactions_returnsHighest()" classname="TransactionQuestionsTest" time="0.003"/>
+  <testcase name="uniqueCities_multipleCities_returnsUniqueCities()" classname="TransactionQuestionsTest" time="0.005"/>
+  <testcase name="cambridgeTraders_withCambridgeTraders_returnsCambridgeTradersSortedAlphabetically()" classname="TransactionQuestionsTest" time="0.004"/>
+  <testcase name="transactions2011_withTransactions_returnsTransactionsSortedAscending()" classname="TransactionQuestionsTest" time="0.003"/>
+  <testcase name="traderNames_multipleTraders_concatenatesNamesSortedAlphabetically()" classname="TransactionQuestionsTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
